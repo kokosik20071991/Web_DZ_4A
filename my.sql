@@ -7,11 +7,11 @@ CREATE TABLE classmate (
 );
 
 -- insert
-INSERT INTO classmate VALUES (0001, 'Кирилл', '16', 'Космическая 15');
-INSERT INTO classmate VALUES (0002, 'Иван', '9', 'Магическая 69');
-INSERT INTO classmate VALUES (0003, 'Евгений', '19', 'Тихая 11');
-INSERT INTO classmate VALUES (0004, 'Илькнур', '999', 'Кошачья 9');
-INSERT INTO classmate VALUES (0005, 'Настя', '69', 'Ленина 45');
+INSERT INTO classmate VALUES (0001, 'Виктория', '32', 'Ленина 12');
+INSERT INTO classmate VALUES (0002, 'Александр', '26', 'Карла Маркса 69');
+INSERT INTO classmate VALUES (0003, 'Алексей', '25', 'Константина Воробьева 13');
+INSERT INTO classmate VALUES (0004, 'Ирина', '30', 'Студенческая 9');
+INSERT INTO classmate VALUES (0005, 'Светлана', '35', 'Родники 45');
 
 
 -- fetch 
